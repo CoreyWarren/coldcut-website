@@ -1,5 +1,7 @@
 # Coldcut Website - Website Django Project README
 
+![image](readme_img/00.png)
+
 ```bash
 # To refresh the server after changing most files (HTML, CSS, JS)
 
