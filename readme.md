@@ -1,4 +1,4 @@
-# florasora.com - Website Django Project README
+# Coldcut Website - Website Django Project README
 
 ```bash
 # To refresh the server after changing most files (HTML, CSS, JS)
@@ -259,3 +259,9 @@ https://stackoverflow.com/questions/39247352/how-to-check-if-elif-else-condition
 ## How to TEST (unit tests) django URLs:
 
 https://stackoverflow.com/questions/18987051/how-do-i-unit-test-django-urls
+
+## Changing secret key in Django:
+https://stackoverflow.com/questions/54498123/django-secret-key-generation/54498318
+```bash
+python -c "from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())"
+```
