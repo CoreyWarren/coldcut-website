@@ -25,6 +25,11 @@ Hey ColdCut. Hope you're doing well. This is the webpage I'm working on for ya. 
 -Launch the DigitalOcean droplet (where your server will be hosted for a monthly fee which they charge me)<br/>
 <br/>
 
+## Phase 2.5: Shipping Phase
+-Find the best options for shipping en masse.
+-Check for possible personal connections--who's in the know?
+-Shipping Info/Database Setup (is user data secure?)
+
 ## Phase 3: Maintenance and Longevity:
 -HTTPS Certificate<br/>
 -Database backups (for retaining user data in case of an outage)<br/>
