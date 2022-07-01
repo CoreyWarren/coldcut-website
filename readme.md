@@ -12,6 +12,7 @@ Hey ColdCut. Hope you're doing well. This is the webpage I'm working on for ya. 
 -->User Registration<br/>
 -->User Profile Page<br/>
 -->User Order History<br/>
+-Website Design Skeleton (it will look terrible at this stage)
 <br/>
 
 ## Phase 2: Launch Phase
