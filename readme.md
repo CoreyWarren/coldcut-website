@@ -23,10 +23,10 @@ Hey ColdCut. Hope you're doing well. This is the webpage I'm working on for ya. 
 <br/>
 
 ## Phase 3: Maintenance and Longevity:
--HTTPS Certificate
--Database backups (for retaining user data in case of an outage)
--Captcha implementation
--Bot/DDOS Protection
+-HTTPS Certificate<br/>
+-Database backups (for retaining user data in case of an outage)<br/>
+-Captcha implementation<br/>
+-Bot/DDOS Protection<br/>
 <br/>
 
 ```bash
