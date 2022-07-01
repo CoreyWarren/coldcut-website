@@ -29,6 +29,13 @@ Hey ColdCut. Hope you're doing well. This is the webpage I'm working on for ya. 
 -Bot/DDOS Protection<br/>
 <br/>
 
+#
+
+#
+
+# Developer Notes:
+
+These are notes that are meant to help maintain, understand, and re-launch the project in case things go wrong.
 ```bash
 # To refresh the server after changing most files (HTML, CSS, JS)
 
