@@ -27,7 +27,7 @@ urlpatterns = [
 
     # STATIC FILES, MEDIA FILES
 	# STATIC FILES, MEDIA FILES
-	re_path(r'^db-mysql/(?P<path>.*)$', serve, {'document_root' : settings.MEDIA_ROOT}),
+	re_path(r'^media/(?P<path>.*)$', serve, {'document_root' : settings.MEDIA_ROOT}),
 	re_path(r'^static/(?P<path>.*)$', serve, {'document_root' : settings.STATIC_ROOT}),
 	# STATIC FILES, MEDIA FILES
 	# STATIC FILES, MEDIA FILES

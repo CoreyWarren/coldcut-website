@@ -267,3 +267,11 @@ https://stackoverflow.com/questions/54498123/django-secret-key-generation/544983
 ```bash
 python -c "from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())"
 ```
+
+
+## Bootstrap v5 for Django (direct installation, rather than linking via web):
+https://pypi.org/project/django-bootstrap-v5/
+
+> How to get bootstrap to load in html files in django:
+>
+> https://django-bootstrap-v5.readthedocs.io/en/latest/quickstart.html#example-template

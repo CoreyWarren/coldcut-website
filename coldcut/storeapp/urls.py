@@ -1,13 +1,14 @@
 from django.contrib import admin
 from . import views
-from django.urls import path, include, re_path
+from django.urls import path
 from django.conf import settings
-from django.views.static import serve
-from django.conf.urls.static import static
 
 
 urlpatterns = [
 
-    path('', views.index, name='index'),
+    path('', views.main, name='main'),
+    path('store/', views.store, name='store'),
+    path('cart/', views.cart, name='cart'),
+    path('checkout/', views.checkout, name='checkout'),
 
 ]

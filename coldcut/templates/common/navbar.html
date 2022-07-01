@@ -1,0 +1,21 @@
+{% load static %}
+<div class="container">
+  <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom">
+
+    <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
+      <li><a href="/store/" class="nav-link px-2 link-secondary">Merch Store</a></li>
+      <li><a href="/" class="nav-link px-2 link-light">About Us</a></li>
+    </ul>
+
+    <div class="col-md-4 text-end">
+      <button type="button" class="btn btn-outline-primary me-2">Login</button>
+      <button type="button" class="btn btn-primary">Sign-up</button>
+      <div class="cart-icon-set">
+        <a href="{% url 'cart' %}"><img  id="cart-icon" src="{% static 'images/cart.png' %}"></a>
+        <p id="cart-total">1</p>
+      </div>
+    </div>
+  
+    </div>
+  </header>
+</div>
