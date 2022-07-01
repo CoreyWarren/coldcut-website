@@ -39,6 +39,14 @@ Hey ColdCut. Hope you're doing well. This is the webpage I'm working on for ya. 
 -Bot/DDOS Protection<br/>
 <br/>
 
+## Cart Preview:
+![](readme_img/cart_preview.png)
+## Store Preview:
+![](readme_img/store_preview.png)
+## Checkout Preview:
+![](readme_img/checkout_preview.png)
+
+
 #
 
 #
