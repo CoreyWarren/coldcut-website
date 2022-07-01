@@ -5,28 +5,29 @@ Hey ColdCut. Hope you're doing well. This is the webpage I'm working on for ya. 
 ### Here are the things I still need to work on for the website:
 
 ## Phase 1: Gruel Phase
--User Authentication (Back-End)
--->User Login
--->User Registration
--->User Profile Page
--->User Order History
-
+-User Authentication (Back-End)<br/>
+-->User Login<br/>
+-->User Registration<br/>
+-->User Profile Page<br/>
+-->User Order History<br/>
+<br/>
 
 ## Phase 2: Launch Phase
--Website Design/Looks (Front-End)
--->Cart View
--->Store View
----->Individual Product View
--->About Us View
--->User Profile View
--Launch the DigitalOcean droplet (where your server will be hosted for a monthly fee which they charge me)
-
+-Website Design/Looks (Front-End)<br/>
+-->Cart View<br/>
+-->Store View<br/>
+---->Individual Product View<br/>
+-->About Us View<br/>
+-->User Profile View<br/>
+-Launch the DigitalOcean droplet (where your server will be hosted for a monthly fee which they charge me)<br/>
+<br/>
 
 ## Phase 3: Maintenance and Longevity:
 -HTTPS Certificate
 -Database backups (for retaining user data in case of an outage)
 -Captcha implementation
 -Bot/DDOS Protection
+<br/>
 
 ```bash
 # To refresh the server after changing most files (HTML, CSS, JS)
