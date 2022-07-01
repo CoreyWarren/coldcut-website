@@ -1,6 +1,32 @@
 # Coldcut Website - Website Django Project README
 
-![image](readme_img/00.png)
+Hey ColdCut. Hope you're doing well. This is the webpage I'm working on for ya. It's going to be an arduous process. One thing I want you to realize: IF you don't want to work with me any more, you WILL have this Django (framework) code to work with when all is said and done. You WON'T be left in the dust. Because that's what "Open Source" coding is all about. 
+
+### Here are the things I still need to work on for the website:
+
+## Phase 1: Gruel Phase
+-User Authentication (Back-End)
+-->User Login
+-->User Registration
+-->User Profile Page
+-->User Order History
+
+
+## Phase 2: Launch Phase
+-Website Design/Looks (Front-End)
+-->Cart View
+-->Store View
+---->Individual Product View
+-->About Us View
+-->User Profile View
+-Launch the DigitalOcean droplet (where your server will be hosted for a monthly fee which they charge me)
+
+
+## Phase 3: Maintenance and Longevity:
+-HTTPS Certificate
+-Database backups (for retaining user data in case of an outage)
+-Captcha implementation
+-Bot/DDOS Protection
 
 ```bash
 # To refresh the server after changing most files (HTML, CSS, JS)
