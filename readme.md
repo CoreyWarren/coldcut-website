@@ -39,6 +39,13 @@ Hey ColdCut. Hope you're doing well. This is the webpage I'm working on for ya. 
 -Bot/DDOS Protection<br/>
 <br/>
 
+## Phase 4: Bonus Features
+-Product Search Bar Function
+-Email Campaigns for regular users
+-Coupon Codes
+-Sync with Instagram store (either manually or automatically)
+
+
 ## Cart Preview:
 ![](readme_img/cart_preview.png)
 ## Store Preview:
