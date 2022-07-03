@@ -23,6 +23,7 @@ Hey ColdCut. Hope you're doing well. This is the webpage I'm working on for ya. 
 -->About Us View<br/>
 -->User Profile View<br/>
 -Launch the DigitalOcean droplet (where your server will be hosted for a monthly fee which they charge me)<br/>
+-About Us Page<br/>
 <br/>
 
 ## Phase 2.5: Shipping Phase<br/>
@@ -44,6 +45,8 @@ Hey ColdCut. Hope you're doing well. This is the webpage I'm working on for ya. 
 -Email Campaigns for regular users<br/>
 -Coupon Codes<br/>
 -Sync with Instagram store (either manually or automatically)<br/>
+<br/>
+-Portfolio/Music/Band Page<br/>
 <br/>
 
 ## Cart Preview:
